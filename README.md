@@ -1,0 +1,2 @@
+# main.py
+DISCORD NUKE SERVER BOT
